@@ -4,7 +4,7 @@ A modern and fully responsive **Personal Portfolio Website** built using **React
 This portfolio showcases my projects, technical skills, experience, and contact details in a clean, interactive, and visually appealing interface.
 
 🚀 Live View
-
+    https://utkarshganoo.vercel.app/
 
 🛠️ Technology Used
 
@@ -48,12 +48,12 @@ cd your-repo-name
 
 2. install Dependencies
 
-npm install
+    npm install
 
 3. To Run App
 
-4. npm start
+     npm start
 
-5. Build for Production
+4. Build for Production
 
-npm run build
+    npm run build
