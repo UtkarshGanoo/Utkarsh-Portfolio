@@ -4,7 +4,7 @@ import emailjs from "@emailjs/browser";
 
 export default function Contact() {
   let form = useRef();
-  let [isSent, setisSent] = useState(false);
+  let [, setisSent] = useState(false);
 
   let sendEmail = (e) => {
     e.preventDefault();
