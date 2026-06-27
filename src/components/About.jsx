@@ -56,7 +56,7 @@ export default function About() {
           </h3>
 
           <p className="text-base sm:text-lg md:text-lg text-[#FFF2E0] mb-10 mt-8 leading-relaxed">
-            I am passionate Java and Full Stack Developer who loves transforming
+            I am passionate about java and cloud Technologies who loves transforming
             ideas into powerful, user-friendly web applications. Whether it’s
             crafting clean backend APIs with Spring Boot or building interactive
             UIs with React, I enjoy every step of the development journey. I
